@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SampleInt</string>
+
+
+    <string name="fandb">F&amp;B</string>
+    <string name="skip">SKIP</string>
+    <string name="normal">NORMAL</string>
+    <string name="regular">REGULAR</string>
+    <string name="large">LARGE</string>
+</resources>
